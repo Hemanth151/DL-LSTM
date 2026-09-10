@@ -39,9 +39,9 @@ Train the model over multiple epochs, tracking loss.
 
 ## PROGRAM
 
-### Name:
+### Name:SEERAPU HEMANTH REDDY
 
-### Register Number:
+### Register Number: 212225040393
 
 ```python
 import torch
